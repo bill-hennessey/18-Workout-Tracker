@@ -15,3 +15,6 @@
 *.sx32fsl
 *.wx64fsl
 *.wx32fsl
+.DS_store
+node_modules
+dirs.md
